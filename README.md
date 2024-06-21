@@ -1,2 +1,8 @@
-# confetti-calculator
-A calculator is a device or software tool used for performing mathematical calculations. It allows users to input numerical values and execute operations such as addition, subtraction, multiplication, division, and more complex functions like trigonometry or logarithms.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
